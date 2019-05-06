@@ -1,9 +1,9 @@
 h1 {
-    color : azul ;
-   color de fondo : amarillo ;
-   borde : 1 px  negro sólido  ;
+    color: blue ;
+   background-color: aqua; 
+   border: black
  }
  
  p {
-    color : rojo ;
+    color: red
  }
